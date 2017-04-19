@@ -7,4 +7,7 @@ public class MyHelperClass {
 		// TODO Auto-generated constructor stub
 	}
 
+	public void methodOne() {
+		//this does some things...
+	}
 }
