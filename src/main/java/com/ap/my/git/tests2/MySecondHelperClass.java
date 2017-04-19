@@ -7,6 +7,8 @@ public class MySecondHelperClass {
 		// TODO Auto-generated constructor stub
 	}
 
-	
+	public void methodA() {
+		// here will be some code...
+	}
 
 }
