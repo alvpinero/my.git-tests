@@ -10,4 +10,8 @@ public class MyHelperClass {
 	public void methodOne() {
 		//this does some things...
 	}
+	
+	public void methodTwo() {
+		
+	}
 }
